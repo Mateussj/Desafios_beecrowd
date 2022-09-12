@@ -1,0 +1,37 @@
+4
+Chaves ChAvEs
+Kiko kikO
+Nhonho NHONHO
+Chiquinha CHIquinHa
+0
+3
+Moto MoTo
+Carro cARRo
+Bicicleta biciCLETA
+3
+Moto MOTO
+Carro CARRO
+Bicicleta bicicleta
+10
+aaaaaaaaaa aaaaaaaaaA
+bbbbbbbbbb bbbbbbbbBB
+cccccccccc cccccccCCC
+dddddddddd ddddddDDDD
+eeeeeeeeee eeeeeEEEEE
+ffffffffff ffffFFFFFF
+gggggggggg gggGGGGGGG
+hhhhhhhhhh hhHHHHHHHH
+iiiiiiiiii iIIIIIIIII
+jjjjjjjjjj JJJJJJJJJJ
+9
+aaaaaaaaaa aaaaaaaaAA
+bbbbbbbbbb bbbbbbbbbB
+cccccccccc cccccccccc
+dddddddddd ddddddDDDD
+eeeeeeeeee eeeeeEEEEE
+ffffffffff ffffFFFFFF
+gggggggggg gggGGGGGGG
+hhhhhhhhhh hhHHHHHHHH
+iiiiiiiiii iIIIIIIIII
+jjjjjjjjjj JJJJJJJJJJ
+0
